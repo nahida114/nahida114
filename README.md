@@ -2,7 +2,7 @@
 -👀 我感兴趣的是玩蔚蓝档案
 -🌱 我目前正在学习炸迷你世界
 -💞️ 我希望能合作友军炸迷你世界
--📫 怎么联系我B站搜索妮姆chigga
+-📫 怎么联系我Bilibili搜索妮姆chigga
 
 <!---
 nahida114/nahida114是a ✨ special ✨ 存储库，因为它的“README.md”(此文件)出现在您的GitHub配置文件中。
